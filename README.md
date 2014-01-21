@@ -14,7 +14,7 @@ Installation
 * Install
 
 ```
-  $ gem install github-bridge
+  $ gem install github_api parseconfig github-bridge
 ```
 
 * Configure
